@@ -1,13 +1,11 @@
 
 # Precise simulation of electromagnetic calorimeter showers using a Wasserstein Generative Adversarial Network
-...the training code of the corresponding publication.
+Code for the training of a generative model that generates electron-induced, electromagnetic showers in the CMS HGCAL prototype that was tested in October 2017 at the CERN H2 beam line. 
 
-# Site and repository under development!
 
 ## References
 * Computing and Software for Big Science: [https://link.springer.com/article/10.1007%2Fs41781-018-0019-7](https://link.springer.com/article/10.1007%2Fs41781-018-0019-7)
 * preprint on arXiv: [https://arxiv.org/abs/1807.01954](https://arxiv.org/abs/1807.01954)
-
 
 ## Recommended hardware prerequisites
 - NVIDIDA GPU GTX 1080 or better
